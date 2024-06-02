@@ -17,10 +17,10 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Learning How To Learn</td>
+      <td>Coursera</td>
+      <td>Jun, 2024</td>
+      <td></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
