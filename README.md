@@ -33,9 +33,9 @@
     </tr>
     <tr>
       <td>3</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Git ,GitHub</td>
+      <td>Learn in Depth</td>
+      <td>Jun, 2024</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
